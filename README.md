@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pratyush981
-- 👀 I’m interested in ...CS
-- 🌱 I’m currently learning ... CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Coding
+- 🌱 I’m currently studying ... CSE with Specilization in Cloud Computing
+- 💞️ I’m looking to collaborate on ...ML
+- 📫 How to reach me ...@pratyush98 (instagram)
 
 <!---
 pratyush981/pratyush981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
