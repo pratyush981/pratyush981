@@ -5,7 +5,7 @@
 
 - 👨‍💻 All about me is available at [https://pratyush981.github.io/Portfolio/](https://pratyush981.github.io/Portfolio/)
 
-- 📫 How to reach me **pratyushjha084@gmail.com**
+- 📫 you can mail me at **pratyushjha084@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1edc9PTwbEJOHe8wdQf3Xvs3XRGm0t0bR?usp=drive_link](https://drive.google.com/drive/folders/1edc9PTwbEJOHe8wdQf3Xvs3XRGm0t0bR?usp=drive_link)
 
