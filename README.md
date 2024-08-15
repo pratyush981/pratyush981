@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratyush Jha</h1>
+<h1 align="center">Howdy 👋, I'm Pratyush Jha</h1>
 <h3 align="center">A passionate Software developer from Hyderabad, India</h3>
 
 - 🔭 I’m currently working on [Image Super Resolution](https://github.com/pratyush981/Image-Super-Resolution-using-DIV2K)
