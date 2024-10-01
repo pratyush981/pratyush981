@@ -7,7 +7,7 @@
 <h2 align="center">Hi 👋! My name is Pratyush Jha and I'm a Student, from Hyderabad, India</h2>
 
 ###
-
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyush981&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=pratyush981&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
